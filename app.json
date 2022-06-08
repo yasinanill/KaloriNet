@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Kalorinet App",
+    "slug": "kalorinetapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./my-app/assets/icon.png",
+    "splash": {
+      "image": "./my-app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": { 
+      
+      "package": "com.yaskay7.kalorinet",
+      "adaptiveIcon": {
+        "foregroundImage": "./my-app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./my-app/assets/favicon.png"
+    }
+      
+    
+  
+    
+  }
+}
