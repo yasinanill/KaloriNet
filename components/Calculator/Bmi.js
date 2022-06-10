@@ -127,7 +127,7 @@ const Bmicalculator= () => {
   {showMore &&
           <View style={[{width: "90%",alignContent:"center", justifyContent:"center", marginLeft:10,padding:5}]}>
           
-            <View><Text style={styles.text3}>BMI, sağlık durumunu vücudunun boy oranlamasına göre ne kadar ağırlığa sahip olması gerektiğini yansıtan bir tablodur.</Text></View>
+            <View><Text style={styles.text3}>BMI,  sağlık durumunu vücudunun boy oranlamasına göre ne kadar ağırlığa sahip olması gerektiğini yansıtan bir tablodur.</Text></View>
   <Image
                style={[{width: "100%",alignContent:"center", justifyContent:"center", marginLeft:10,padding:5}]}         
                             source={require('./images/indir.png')}
